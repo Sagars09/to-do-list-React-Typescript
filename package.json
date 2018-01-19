@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list-react-typescript",
+  "version": "1.0.0",
+  "description": "To-do list with addition, deletioin and sorting functionalities and animation, developed using React-ypescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagars09-coditas/to-do-list-React-Typescript.git"
+  },
+  "author": "Sagar Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagars09-coditas/to-do-list-React-Typescript/issues"
+  },
+  "homepage": "https://github.com/sagars09-coditas/to-do-list-React-Typescript#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
